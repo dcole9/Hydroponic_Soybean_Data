@@ -31,6 +31,8 @@ concentrations. Units are in either % or ppm as indicated.
 pH Data: Includes data on each replicate's pH value before and after adjustment. Acid added is in mL of 
 stock solutions and NaOH added is in grams.
 
+Stats_Results: Includes outputs for the statistical analysis of the study.
+
 Citations:
 
 Hoagland, D.R.; Arnon, D.I.; _The Water-Culture Method for Growing Plants Without Soil_; California Agriculture Experiment Station Circular 347-2; University of California College of Agriculture: Berkeley, CA, USA, 1950.
